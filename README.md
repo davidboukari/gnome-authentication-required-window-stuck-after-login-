@@ -1,0 +1,1 @@
+# gnome-authentication-required-window-stuck-after-login-
